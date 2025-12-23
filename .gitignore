@@ -1,0 +1,10 @@
+# Build files
+*.exe
+*.out
+build/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
